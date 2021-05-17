@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ToDo</string>
+    <string name="save">حفظ</string>
+    <string name="new_task">مهمه جديدة</string>
+    <string name="tasks">المهام</string>
+    <string name="are_you_sure_to_delete">هل أنت متأكد من انك تريد حذف هذه المهمه</string>
+    <string name="delete_task">حذف المهمه</string>
+    <string name="confirm">تأكيد</string>
+</resources>
